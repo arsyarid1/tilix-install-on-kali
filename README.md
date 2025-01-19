@@ -11,7 +11,7 @@ step 1 : Checkl for typos
 step 2 : Update package list
   Run the following command to update Package Lis
 
-  <sub>sudo apt-get update</sub>
+  <code>sudo apt-get update</code>
 
 This will synchronize your package index files with their online sources.
 
