@@ -1,5 +1,5 @@
 # tilix-install-on-kali
-How to install Tilix on Kali Linux
+##How to install Tilix on Kali Linux
 
 Step to fix if you unable to locate package in Kali Linux
 
@@ -11,7 +11,7 @@ step 1 : Checkl for typos
 step 2 : Update package list
   Run the following command to update Package Lis
 
-  sudo apt-get update
+  <sub>sudo apt-get update</sub>
 
 This will synchronize your package index files with their online sources.
 
@@ -19,6 +19,7 @@ Step 3: Upgrade Your System
 Sometimes, a simple upgrade can resolve installation issues:
 
 sudo apt-get upgrade
+
 This will upgrade all of your installed packages to their latest versions.
 
 Step 4: Check Your Repositories
